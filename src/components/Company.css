@@ -1,0 +1,13 @@
+.tile {
+  position: relative;
+}
+
+.tile span {
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+  background: red;
+  color: white;
+  padding: 3px 7px;
+}
